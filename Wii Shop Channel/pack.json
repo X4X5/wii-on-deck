@@ -1,0 +1,9 @@
+{
+  "name": "Wii Shop Channel theme",
+  "description": "Everyone knows this one. Theme by Nintendo",
+  "author": "X4X5",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
